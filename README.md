@@ -1,27 +1,109 @@
-# 💫 About Me:
-Computer Science Engineering graduate and software developer who loves turning ideas into real products. I build full-stack web apps with React, Next.js, Node.js, Express.js, MongoDB, and MySQL, including projects with real-time collaboration and AI integration. My cloud experience comes from a Cloud Consultant internship at Mist Avinya, where I worked on client requirements, AWS solutions, scalability, and cost. I then moved into front-end work as a Front End Intern at CertifyX, building responsive interfaces with React.js. I’ve solved 100+ DSA problems on LeetCode and enjoy learning in public. Always happy to talk about web dev, cloud, or a good problem to solve. 🚀<br><br>Portfolio: https://portfoliioo-xi.vercel.app/
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.svg">
+  <img alt="Keshav Gupta" src="art/header-light.svg" width="100%">
+</picture>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keshav07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keshavgupta072004@gmail.com) 
+<h1>Hey there, I'm Keshav Gupta 👋</h1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=keshav062004&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=keshav062004&theme=discord_old_blurple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=keshav062004&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Front-End+Developer+%7C+React.js;Cloud+%26+AI+Enthusiast;Always+learning+something+new" alt="Typing SVG" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=keshav062004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p>
+  <img src="https://img.shields.io/github/followers/keshav062004?style=for-the-badge&logo=github&label=Followers&color=FF69B4&labelColor=F8BBD0" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/keshav062004?style=for-the-badge&logo=github&label=Stars&color=FF69B4&labelColor=F8BBD0" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=keshav062004&style=for-the-badge&color=FF69B4&label=Profile+Views" alt="Profile Views" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=keshav062004&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
 
----
-[![](https://komarev.com/ghpvc/?username=keshav062004&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🙋 About Me
+
+</div>
+
+<table>
+  <tr>
+    <td width="65%" valign="middle">
+
+**Computer Science Engineering graduate and Software Developer** based in **Haryana, India**.
+
+I'm passionate about building **responsive web applications** and **data-driven solutions** that are fast, scalable, and genuinely useful. Currently I'm working on **FundScope India**, an AI-powered mutual fund analytics platform, and exploring **AWS cloud solutions** and scalable system design.
+
+- 🔭 **Currently building:** FundScope India (AI-powered mutual fund analytics)
+- 🌱 **Currently learning:** AWS cloud services and scalable system design
+- 🤝 **Open to:** Internships, full-time roles, and collaboration on impactful projects
+- ⚡ **Fun fact:** I've solved 100+ DSA problems on LeetCode and captained my university hostel cricket team to victory
+
+    </td>
+    <td width="35%" align="center" valign="middle">
+
+<img src="art/avatar.png" alt="Keshav Gupta" width="200" style="border-radius: 50%; border: 4px solid #FF69B4;" />
+
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,typescript,tailwind,git,github,aws,python,vscode&theme=dark" alt="Tech Stack" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav062004&theme=pink&hide_border=true&background=0D1117&ring=FF69B4&fire=EF93C4&currStreakLabel=FF69B4" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=keshav062004&theme=github-compact&bg_color=0D1117&color=F8BBD0&line=FF69B4&point=EF93C4&hide_border=true" alt="Activity Graph" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keshav062004/keshav062004/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keshav062004/keshav062004/output/github-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/keshav062004/keshav062004/output/github-snake.svg" />
+</picture>
+
+<!-- Snake is generated by a GitHub Action (Platane/snk). Add .github/workflows/snake.yml to your repo to enable it. -->
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/keshav07/"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/[YOUR_INSTAGRAM]"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:keshavgupta072004@gmail.com"><img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://portfoliioo-xi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FFFFFF&fontAlign=50&fontAlignY=35" width="100%" alt="Footer" />
