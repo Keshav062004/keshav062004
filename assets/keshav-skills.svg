@@ -9,6 +9,7 @@
     <linearGradient id="ks-accent" x1="0" y1="0" x2="1" y2="0">
       <stop stop-color="#701A3D"/>
       <stop offset="1" stop-color="#C77B9B"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-0.8 0;0.8 0;-0.8 0" dur="14s" repeatCount="indefinite"/>
     </linearGradient>
   </defs>
   <rect x="1" y="1" width="1198" height="568" rx="18" fill="url(#ks-bg)" stroke="#701A3D" stroke-opacity="0.55"/>

@@ -1,13 +1,5 @@
 <p align="center">
-  <img src="assets/keshav-banner.png" width="100%" alt="Keshav Gupta, Software Developer — Full-Stack, AI, Cloud and Front-End" />
-</p>
-
-<p align="center">
-  <img src="assets/keshav-hero.svg" width="100%" alt="Animated software developer banner: Full-Stack, AI, Cloud and Front-End" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&amp;weight=600&amp;size=20&amp;pause=1600&amp;color=C77B9B&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Full-Stack+Developer;AI+and+Cloud+Enthusiast;Front-End+Developer+%7C+React.js" alt="Full-Stack Developer, AI and Cloud Enthusiast, Front-End Developer with React.js" />
+  <img src="assets/keshav-hero.svg" width="100%" alt="Keshav Gupta, Software Developer — Full-Stack, AI, Cloud and Front-End" />
 </p>
 
 <p align="center">

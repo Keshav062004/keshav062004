@@ -31,10 +31,15 @@
     <rect width="376" height="230" rx="15" fill="#10070C" stroke="#451126"/>
     <text x="23" y="31" fill="#B6A3AC" font-family="Consolas, monospace" font-size="10" letter-spacing="1.2">ANALYTICS WORKSPACE</text>
     <path d="M24 64H352M24 107H352M24 150H352M24 193H352" stroke="#E5B5C7" stroke-opacity="0.09"/>
-    <path d="M24 190C64 180 72 147 111 157S160 177 196 132 241 140 267 97 310 109 352 67" fill="none" stroke="#C77B9B" stroke-width="3"/>
+    <path d="M24 190C64 180 72 147 111 157S160 177 196 132 241 140 267 97 310 109 352 67" fill="none" stroke="#C77B9B" stroke-width="3" stroke-dasharray="440" stroke-dashoffset="440">
+      <animate attributeName="stroke-dashoffset" from="440" to="0" dur="5s" fill="freeze"/>
+    </path>
     <path d="M24 190C64 180 72 147 111 157S160 177 196 132 241 140 267 97 310 109 352 67V205H24Z" fill="url(#kf-chart)"/>
     <circle cx="196" cy="132" r="4" fill="#F8F0F3"/>
-    <circle cx="267" cy="97" r="4" fill="#E5B5C7"/>
+    <circle cx="267" cy="97" r="4" fill="#E5B5C7">
+      <animate attributeName="r" values="3;5;3" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.65;1;0.65" dur="3s" repeatCount="indefinite"/>
+    </circle>
     <text x="24" y="220" fill="#B6A3AC" font-family="Consolas, monospace" font-size="9">SCHEME EXPLORER  /  ILLUSTRATIVE UI</text>
   </g>
 </svg>
