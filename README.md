@@ -1,83 +1,74 @@
-<div align="center">
-  <img src="assets/keshav-hero.svg" width="100%" alt="Keshav Gupta, Software Developer" />
-</div>
-
 <p align="center">
-  Computer Science Engineering graduate and software developer based in Haryana, India.<br>
-  I build full-stack products and explore cloud, AI, and front-end engineering.
+  <img src="assets/keshav-banner.png" width="100%" alt="Keshav Gupta, Software Developer — Full-Stack, AI, Cloud and Front-End" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=20&pause=1600&color=C77B9B&center=true&vCenter=true&width=820&lines=Full-Stack+Developer;AI+and+Cloud+Enthusiast;Front-End+Developer+%7C+React.js" alt="Full-Stack Developer, AI and Cloud Enthusiast, Front-End Developer with React.js" />
+  <img src="assets/keshav-hero.svg" width="100%" alt="Animated software developer banner: Full-Stack, AI, Cloud and Front-End" />
 </p>
-
-<h2 align="center">Featured projects</h2>
-
-<table align="center">
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>What it does</th>
-      <th>Tech stack</th>
-      <th>Live</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Keshav062004/FundScope-India"><strong>FundScope India</strong></a></td>
-      <td>Explores and compares Indian mutual-fund history and risk, with Gemini AI insights. Includes 16 schemes and 42,372 NAV records.</td>
-      <td>Python, Pandas, NumPy, SQL, Power BI, React, TypeScript, FastAPI, SQLite</td>
-      <td><a href="https://fund-scope-india.vercel.app/">Open app</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Keshav062004/MediConnect"><strong>MediConnect</strong></a></td>
-      <td>Connects healthcare users through role-based access, real-time messaging and video calls, appointment booking, and file uploads.</td>
-      <td>React, Redux Toolkit, Node.js, Express.js, MongoDB, JWT, Cloudinary</td>
-      <td><a href="https://medi-connect-k.netlify.app/">Open app</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 align="center">Experience &amp; education</h2>
-
-- **Front End Intern — CertifyX** · Remote, Delhi · **Jul 2026–Present** — Building responsive React.js interfaces and reusable UI components; debugging and testing front-end work.
-- **Cloud Consultant Intern — Mist Avinya Technologies LLP** · Noida · **Dec 2025–Jun 2026** — Gathered client requirements and contributed to AWS cloud consultations, considering scalability and cost.
-- **B.Tech, Computer Science Engineering — Chitkara University, Punjab** · **Aug 2022–Aug 2026** · CGPA **7.81/10**
-
-<h2 align="center">Skills</h2>
-
-- **Languages:** Python · JavaScript · TypeScript · Java · SQL
-- **Frontend:** React.js · Next.js · Tailwind CSS · Redux Toolkit
-- **Backend:** Node.js · Express.js · FastAPI
-- **Data &amp; AI:** Pandas · NumPy · Power BI
-- **Cloud &amp; DevOps:** AWS (EC2, S3, IAM) · Docker · GitHub Actions · Vercel · Render
-- **Databases:** MongoDB · MySQL · SQLite
-- **Tools:** Git
-
-<h2 align="center">Achievements &amp; certifications</h2>
-
-- Solved **100+** LeetCode problems.
-- Open-source contributor through **Hacktoberfest** and **Social Winter of Code**.
-- Captained the university hostel cricket team to a tournament win.
-- **Certifications:** AWS Cloud Practitioner Essentials (completion certificate); Deloitte Data Analytics Job Simulation (Forage).
-
-<h2 align="center">GitHub stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav062004&amp;theme=dark&amp;hide_border=true&amp;background=10070C&amp;ring=701A3D&amp;fire=C77B9B&amp;currStreakLabel=E5B5C7&amp;sideLabels=E5B5C7&amp;currStreakNum=F8F0F3&amp;sideNums=F8F0F3&amp;dates=E5B5C7" alt="GitHub contribution streak for keshav062004" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&amp;weight=600&amp;size=20&amp;pause=1600&amp;color=C77B9B&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Full-Stack+Developer;AI+and+Cloud+Enthusiast;Front-End+Developer+%7C+React.js" alt="Full-Stack Developer, AI and Cloud Enthusiast, Front-End Developer with React.js" />
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keshav062004&amp;theme=midnight_purple&amp;bg_color=10070C&amp;title_color=C77B9B&amp;text_color=E5B5C7&amp;icon_color=C77B9B&amp;border_color=701A3D" alt="Top languages by repository for keshav062004" />
-</p>
-
-<h2 align="center">Contribution graph</h2>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/701A3D/Keshav062004" alt="GitHub contribution graph for Keshav062004" width="100%" />
+  <img src="assets/keshav-profile.svg" width="100%" alt="Computer Science Engineering graduate and software developer in Haryana, India. Builds full-stack applications and data-driven tools, with a focus on front-end craft, cloud, and AI." />
 </p>
 
-<h2 align="center">Connect</h2>
+<p align="center">
+  <img src="assets/keshav-work.svg" width="100%" alt="Selected work: FundScope India and MediConnect." />
+</p>
 
+<a href="https://github.com/Keshav062004/FundScope-India">
+  <img src="assets/keshav-fundscope.svg" width="100%" alt="FundScope India — mutual fund analytics, made explorable. Explore Indian fund history, compare performance and risk, and ask questions about the available dataset with Gemini AI insights. Sixteen schemes and 42,372 NAV records. Python, Pandas, React, TypeScript, FastAPI, and SQLite." />
+</a>
+<p align="center">
+  <a href="https://fund-scope-india.vercel.app/">↗ Live app</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Keshav062004/FundScope-India">Source repository</a>
+</p>
+
+<a href="https://github.com/Keshav062004/MediConnect">
+  <img src="assets/keshav-mediconnect.svg" width="100%" alt="MediConnect — a healthcare communication platform with role-based JWT access, real-time messaging and video calls, appointment booking, and Cloudinary uploads. React, Redux Toolkit, Node.js, Express.js, MongoDB, JWT, and Cloudinary." />
+</a>
+<p align="center">
+  <a href="https://medi-connect-k.netlify.app/">↗ Live app</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Keshav062004/MediConnect">Source repository</a>
+</p>
+
+<p align="center">
+  <img src="assets/keshav-journey.svg" width="100%" alt="Experience and education: Front End Intern at CertifyX, July 2026 to present; Cloud Consultant Intern at Mist Avinya Technologies LLP, December 2025 to June 2026; B.Tech Computer Science Engineering, Chitkara University, Punjab, August 2022 to August 2026, CGPA 7.81 out of 10." />
+</p>
+
+<p align="center">
+  <img src="assets/keshav-skills.svg" width="100%" alt="Technical skills: Python, JavaScript, TypeScript, Java, SQL; React.js, Next.js, Tailwind CSS, Redux Toolkit; Node.js, Express.js, FastAPI; Pandas, NumPy, Power BI; AWS EC2, S3, IAM, Docker, GitHub Actions, Vercel, Render; MongoDB, MySQL, SQLite; Git." />
+</p>
+
+<p align="center">
+  <img src="assets/keshav-recognition.svg" width="100%" alt="Achievements and certifications: solved 100+ LeetCode problems; open-source contributor at Hacktoberfest and Social Winter of Code; captained the university hostel cricket team to a tournament win; AWS Cloud Practitioner Essentials completion certificate; Deloitte Data Analytics Job Simulation on Forage." />
+</p>
+
+<p align="center">
+  <img src="assets/keshav-stats.svg" width="100%" alt="GitHub activity: live public contribution streak and top language cards." />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav062004&amp;theme=dark&amp;hide_border=true&amp;background=10070C&amp;ring=701A3D&amp;fire=C77B9B&amp;currStreakLabel=E5B5C7&amp;sideLabels=E5B5C7&amp;currStreakNum=F8F0F3&amp;sideNums=F8F0F3&amp;dates=E5B5C7" alt="Live GitHub contribution streak for keshav062004" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keshav062004&amp;theme=midnight_purple&amp;bg_color=10070C&amp;title_color=C77B9B&amp;text_color=E5B5C7&amp;icon_color=C77B9B&amp;border_color=701A3D" alt="Top languages by repository for keshav062004" width="340" />
+</p>
+
+<p align="center">
+  <img src="assets/keshav-contributions.svg" width="100%" alt="Contribution graph heading: a genuine public GitHub contribution graph for Keshav Gupta." />
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/701A3D/Keshav062004" alt="Real GitHub contribution graph for Keshav062004" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/keshav-connect.svg" width="100%" alt="Connect with Keshav Gupta through LinkedIn, email, portfolio, or GitHub." />
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/keshav07/"><img src="https://img.shields.io/badge/LinkedIn-701A3D?style=for-the-badge&amp;logo=linkedin&amp;logoColor=F8F0F3" alt="LinkedIn" /></a>
   <a href="mailto:keshavgupta072004@gmail.com"><img src="https://img.shields.io/badge/Email-701A3D?style=for-the-badge&amp;logo=gmail&amp;logoColor=F8F0F3" alt="Email" /></a>
@@ -86,5 +77,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/keshav-footer.svg" width="100%" alt="Thanks for visiting" />
+  <img src="assets/keshav-footer.svg" width="100%" alt="Thanks for stopping by. Building thoughtful software, one useful iteration at a time." />
 </p>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="354" viewBox="0 0 1200 354" role="img" aria-labelledby="kf-title kf-desc">
+  <title id="kf-title">FundScope India — mutual fund analytics platform</title>
+  <desc id="kf-desc">Explore historical Indian mutual fund NAV performance and risk with Gemini AI insights. Sixteen schemes and 42,372 NAV records. Built with Python, Pandas, NumPy, SQL, Power BI, React, TypeScript, FastAPI, and SQLite.</desc>
+  <defs>
+    <linearGradient id="kf-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#10070C"/>
+      <stop offset="0.66" stop-color="#190B12"/>
+      <stop offset="1" stop-color="#27101C"/>
+    </linearGradient>
+    <linearGradient id="kf-chart" x1="0" y1="1" x2="1" y2="0">
+      <stop stop-color="#701A3D" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#C77B9B" stop-opacity="0.48"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="352" rx="18" fill="url(#kf-bg)" stroke="#701A3D" stroke-opacity="0.65"/>
+  <text x="40" y="42" fill="#C77B9B" font-family="Consolas, monospace" font-size="11" letter-spacing="2">01  /  DATA + FINANCE</text>
+  <text x="40" y="93" fill="#F8F0F3" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">FundScope India</text>
+  <text x="40" y="126" fill="#E5B5C7" font-family="Segoe UI, Arial, sans-serif" font-size="16">Mutual fund analytics, made explorable.</text>
+  <text x="40" y="163" fill="#B6A3AC" font-family="Segoe UI, Arial, sans-serif" font-size="14">Explore Indian fund history, compare performance and risk, and ask questions</text>
+  <text x="40" y="185" fill="#B6A3AC" font-family="Segoe UI, Arial, sans-serif" font-size="14">about the available dataset with Gemini AI insights.</text>
+  <g transform="translate(40 217)">
+    <rect width="150" height="52" rx="10" fill="#27101C" stroke="#701A3D"/>
+    <text x="16" y="24" fill="#F8F0F3" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700">16</text>
+    <text x="16" y="41" fill="#B6A3AC" font-family="Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="1">SCHEMES</text>
+    <rect x="162" width="190" height="52" rx="10" fill="#27101C" stroke="#701A3D"/>
+    <text x="178" y="24" fill="#F8F0F3" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700">42,372</text>
+    <text x="178" y="41" fill="#B6A3AC" font-family="Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="1">NAV RECORDS</text>
+  </g>
+  <text x="40" y="313" fill="#C77B9B" font-family="Consolas, monospace" font-size="11">PYTHON  /  PANDAS  /  REACT  /  TYPESCRIPT  /  FASTAPI  /  SQLITE</text>
+  <g transform="translate(775 60)">
+    <rect width="376" height="230" rx="15" fill="#10070C" stroke="#451126"/>
+    <text x="23" y="31" fill="#B6A3AC" font-family="Consolas, monospace" font-size="10" letter-spacing="1.2">ANALYTICS WORKSPACE</text>
+    <path d="M24 64H352M24 107H352M24 150H352M24 193H352" stroke="#E5B5C7" stroke-opacity="0.09"/>
+    <path d="M24 190C64 180 72 147 111 157S160 177 196 132 241 140 267 97 310 109 352 67" fill="none" stroke="#C77B9B" stroke-width="3"/>
+    <path d="M24 190C64 180 72 147 111 157S160 177 196 132 241 140 267 97 310 109 352 67V205H24Z" fill="url(#kf-chart)"/>
+    <circle cx="196" cy="132" r="4" fill="#F8F0F3"/>
+    <circle cx="267" cy="97" r="4" fill="#E5B5C7"/>
+    <text x="24" y="220" fill="#B6A3AC" font-family="Consolas, monospace" font-size="9">SCHEME EXPLORER  /  ILLUSTRATIVE UI</text>
+  </g>
+</svg>

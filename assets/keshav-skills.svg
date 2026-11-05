@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="570" viewBox="0 0 1200 570" role="img" aria-labelledby="ks-title ks-desc">
+  <title id="ks-title">Technical toolkit</title>
+  <desc id="ks-desc">Verified skills grouped into languages, frontend, backend, data and AI, cloud and DevOps, databases, and tools.</desc>
+  <defs>
+    <linearGradient id="ks-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#10070C"/>
+      <stop offset="1" stop-color="#190B12"/>
+    </linearGradient>
+    <linearGradient id="ks-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#701A3D"/>
+      <stop offset="1" stop-color="#C77B9B"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="568" rx="18" fill="url(#ks-bg)" stroke="#701A3D" stroke-opacity="0.55"/>
+  <text x="38" y="43" fill="#C77B9B" font-family="Consolas, monospace" font-size="11" letter-spacing="2">04  /  THE TOOLKIT</text>
+  <text x="38" y="78" fill="#F8F0F3" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700">Tools I use to turn ideas into working software.</text>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g transform="translate(38 105)">
+      <rect width="550" height="104" rx="12" fill="#190B12" stroke="#451126"/>
+      <path d="M0 12Q0 0 12 0H15V104H12Q0 104 0 92Z" fill="url(#ks-accent)"/>
+      <text x="31" y="31" fill="#C77B9B" font-size="11" font-weight="700" letter-spacing="1.4">LANGUAGES</text>
+      <text x="31" y="62" fill="#F8F0F3" font-size="15">Python  ·  JavaScript  ·  TypeScript</text>
+      <text x="31" y="85" fill="#E5B5C7" font-size="15">Java  ·  SQL</text>
+    </g>
+    <g transform="translate(612 105)">
+      <rect width="550" height="104" rx="12" fill="#190B12" stroke="#451126"/>
+      <path d="M0 12Q0 0 12 0H15V104H12Q0 104 0 92Z" fill="url(#ks-accent)"/>
+      <text x="31" y="31" fill="#C77B9B" font-size="11" font-weight="700" letter-spacing="1.4">FRONTEND</text>
+      <text x="31" y="62" fill="#F8F0F3" font-size="15">React.js  ·  Next.js  ·  Tailwind CSS</text>
+      <text x="31" y="85" fill="#E5B5C7" font-size="15">Redux Toolkit</text>
+    </g>
+    <g transform="translate(38 226)">
+      <rect width="550" height="104" rx="12" fill="#190B12" stroke="#451126"/>
+      <path d="M0 12Q0 0 12 0H15V104H12Q0 104 0 92Z" fill="url(#ks-accent)"/>
+      <text x="31" y="31" fill="#C77B9B" font-size="11" font-weight="700" letter-spacing="1.4">BACKEND</text>
+      <text x="31" y="62" fill="#F8F0F3" font-size="15">Node.js  ·  Express.js</text>
+      <text x="31" y="85" fill="#E5B5C7" font-size="15">FastAPI</text>
+    </g>
+    <g transform="translate(612 226)">
+      <rect width="550" height="104" rx="12" fill="#190B12" stroke="#451126"/>
+      <path d="M0 12Q0 0 12 0H15V104H12Q0 104 0 92Z" fill="url(#ks-accent)"/>
+      <text x="31" y="31" fill="#C77B9B" font-size="11" font-weight="700" letter-spacing="1.4">DATA + AI</text>
+      <text x="31" y="62" fill="#F8F0F3" font-size="15">Pandas  ·  NumPy</text>
+      <text x="31" y="85" fill="#E5B5C7" font-size="15">Power BI</text>
+    </g>
+    <g transform="translate(38 347)">
+      <rect width="550" height="104" rx="12" fill="#190B12" stroke="#451126"/>
+      <path d="M0 12Q0 0 12 0H15V104H12Q0 104 0 92Z" fill="url(#ks-accent)"/>
+      <text x="31" y="31" fill="#C77B9B" font-size="11" font-weight="700" letter-spacing="1.4">CLOUD + DEVOPS</text>
+      <text x="31" y="62" fill="#F8F0F3" font-size="14">AWS (EC2, S3, IAM)  ·  Docker</text>
+      <text x="31" y="85" fill="#E5B5C7" font-size="14">GitHub Actions  ·  Vercel  ·  Render</text>
+    </g>
+    <g transform="translate(612 347)">
+      <rect width="550" height="104" rx="12" fill="#190B12" stroke="#451126"/>
+      <path d="M0 12Q0 0 12 0H15V104H12Q0 104 0 92Z" fill="url(#ks-accent)"/>
+      <text x="31" y="31" fill="#C77B9B" font-size="11" font-weight="700" letter-spacing="1.4">DATABASES</text>
+      <text x="31" y="62" fill="#F8F0F3" font-size="15">MongoDB  ·  MySQL</text>
+      <text x="31" y="85" fill="#E5B5C7" font-size="15">SQLite</text>
+    </g>
+    <g transform="translate(38 468)">
+      <rect width="1124" height="75" rx="12" fill="#190B12" stroke="#451126"/>
+      <path d="M0 12Q0 0 12 0H15V75H12Q0 75 0 63Z" fill="url(#ks-accent)"/>
+      <text x="31" y="31" fill="#C77B9B" font-size="11" font-weight="700" letter-spacing="1.4">TOOLS</text>
+      <text x="31" y="57" fill="#F8F0F3" font-size="15">Git</text>
+    </g>
+  </g>
+</svg>

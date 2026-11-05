@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="142" viewBox="0 0 1200 142" role="img" aria-labelledby="kst-title kst-desc">
+  <title id="kst-title">GitHub activity</title>
+  <desc id="kst-desc">Live GitHub streak and language cards, followed by a real contribution graph.</desc>
+  <defs>
+    <linearGradient id="kst-line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#701A3D"/>
+      <stop offset="0.55" stop-color="#C77B9B"/>
+      <stop offset="1" stop-color="#701A3D"/>
+    </linearGradient>
+  </defs>
+  <text x="8" y="36" fill="#C77B9B" font-family="Consolas, monospace" font-size="12" letter-spacing="2">06  /  GITHUB ACTIVITY</text>
+  <text x="8" y="83" fill="#F8F0F3" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">A live record of showing up.</text>
+  <text x="8" y="111" fill="#B6A3AC" font-family="Segoe UI, Arial, sans-serif" font-size="14">Real contribution data from GitHub. Cards update from public profile activity.</text>
+  <path d="M840 72H1190" stroke="url(#kst-line)" stroke-width="2"/>
+  <circle cx="855" cy="72" r="4" fill="#E5B5C7"/>
+</svg>

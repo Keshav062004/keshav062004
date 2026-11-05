@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132" role="img" aria-labelledby="kc-title kc-desc">
+  <title id="kc-title">Connect with Keshav Gupta</title>
+  <desc id="kc-desc">LinkedIn, email, portfolio, and GitHub.</desc>
+  <defs>
+    <linearGradient id="kc-line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#701A3D"/>
+      <stop offset="1" stop-color="#C77B9B"/>
+    </linearGradient>
+  </defs>
+  <text x="8" y="34" fill="#C77B9B" font-family="Consolas, monospace" font-size="11" letter-spacing="2">08  /  OPEN CHANNELS</text>
+  <text x="8" y="78" fill="#F8F0F3" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="700">Have a good problem to solve?</text>
+  <text x="8" y="105" fill="#B6A3AC" font-family="Segoe UI, Arial, sans-serif" font-size="13">Reach me through any of the links below.</text>
+  <path d="M830 68H1190" stroke="url(#kc-line)" stroke-width="2"/>
+</svg>
