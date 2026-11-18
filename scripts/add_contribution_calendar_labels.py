@@ -78,7 +78,9 @@ def main() -> None:
     labels = add_calendar_labels(levels)
     svg = svg.replace("</svg>", f"{labels}</svg>", 1)
     svg = re.sub(r'<rect class="u(?:\s+[^"]*)?"[^>]*/>', "", svg)
-    OUTPUT_PATH.write_text(svg, encoding="utf-8")
+    temporary_path = OUTPUT_PATH.with_name(f"{OUTPUT_PATH.name}.tmp")
+    temporary_path.write_text(svg, encoding="utf-8")
+    temporary_path.replace(OUTPUT_PATH)
     print(f"Added calendar labels to {OUTPUT_PATH}")
 
 
