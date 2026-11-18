@@ -9,7 +9,7 @@ on:
       - main
     paths:
       - README.md
-      - scripts/generate_contribution_calendar.py
+      - scripts/add_contribution_calendar_labels.py
       - .github/workflows/contribution-calendar.yml
 
 permissions:
@@ -24,8 +24,15 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Generate labeled contribution calendar
-        run: python scripts/generate_contribution_calendar.py
+      - name: Generate the classic snake animation
+        uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
+        with:
+          github_user_name: Keshav062004
+          outputs: |
+            dist/github-contribution-calendar.svg?color_snake=%23C77B9B&color_dots=%23190B12,%23451126,%23701A3D,%23A84D75,%23E5B5C7
+
+      - name: Add month and weekday labels
+        run: python scripts/add_contribution_calendar_labels.py
 
       - name: Publish generated calendar
         uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865
