@@ -65,13 +65,26 @@ def render_calendar(levels: dict[date, int]) -> str:
     width = GRID_LEFT + weeks * step + 8
     height = GRID_TOP + 7 * step + 10
 
+    route_points = []
+    for week in range(weeks):
+        weekdays = range(7) if week % 2 == 0 else range(6, -1, -1)
+        for weekday in weekdays:
+            x = GRID_LEFT + week * step + CELL_SIZE // 2
+            y = GRID_TOP + weekday * step + CELL_SIZE // 2
+            route_points.append((x, y))
+    route = f"M {route_points[0][0]} {route_points[0][1]} " + " ".join(
+        f"L {x} {y}" for x, y in route_points[1:]
+    )
+
     elements = [
-        f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" '
+        f'<svg xmlns="http://www.w3.org/2000/svg" '
+        f'xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 {width} {height}" '
         f'width="100%" role="img" aria-labelledby="title description">',
         "<title id=\"title\">GitHub contribution calendar</title>",
-        "<desc id=\"description\">Daily contributions over the past year. "
+        "<desc id=\"description\">Daily contributions over the past year, with a moving snake. "
         "Months are labeled above and Monday, Wednesday, and Friday at the left.</desc>",
         '<rect width="100%" height="100%" rx="10" fill="#10070C"/>',
+        f'<defs><path id="snake-route" d="{route}"/></defs>',
     ]
 
     seen_months: set[tuple[int, int]] = set()
@@ -103,6 +116,26 @@ def render_calendar(levels: dict[date, int]) -> str:
             f'<rect x="{x}" y="{y}" width="{CELL_SIZE}" height="{CELL_SIZE}" rx="2" '
             f'fill="{LEVEL_COLORS[level]}"><title>{day.isoformat()}: '
             f'contribution level {level} of 4</title></rect>'
+        )
+
+    duration = 42
+    step_duration = duration / (len(route_points) - 1)
+    segments = (
+        (4.5, "#C77B9B", 0.82),
+        (4.2, "#C77B9B", 0.68),
+        (3.9, "#C77B9B", 0.54),
+        (3.6, "#C77B9B", 0.4),
+        (3.3, "#C77B9B", 0.28),
+        (5, "#F8F0F3", 1),
+    )
+    for index, (radius, color, opacity) in enumerate(segments):
+        begin = -index * step_duration
+        elements.append(
+            f'<circle r="{radius:g}" fill="{color}" fill-opacity="{opacity:g}" '
+            'stroke="#451126" stroke-width="1">'
+            f'<animateMotion dur="{duration}s" begin="{begin:.3f}s" '
+            'repeatCount="indefinite"><mpath xlink:href="#snake-route"/>'
+            '</animateMotion></circle>'
         )
 
     elements.append("</svg>")
