@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate contribution calendar
 
 on:
   schedule:
@@ -9,7 +9,8 @@ on:
       - main
     paths:
       - README.md
-      - .github/workflows/contribution-snake.yml
+      - scripts/generate_contribution_calendar.py
+      - .github/workflows/contribution-calendar.yml
 
 permissions:
   contents: write
@@ -18,14 +19,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake from the contribution graph
-        uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
+      - name: Check out profile repository
+        uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8
         with:
-          github_user_name: Keshav062004
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23C77B9B&color_dots=%23190B12,%23451126,%23701A3D,%23A84D75,%23E5B5C7
+          persist-credentials: false
 
-      - name: Publish generated animation
+      - name: Generate labeled contribution calendar
+        run: python scripts/generate_contribution_calendar.py
+
+      - name: Publish generated calendar
         uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865
         with:
           target_branch: output
