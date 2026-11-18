@@ -55,7 +55,7 @@
   <img src="assets/keshav-contributions.svg" width="100%" alt="Contribution graph heading: a genuine public GitHub contribution graph for Keshav Gupta." />
 </p>
 <p align="center">
-  <img src="https://ghchart.rshah.org/701A3D/Keshav062004" alt="Real GitHub contribution graph for Keshav062004" width="100%" />
+  <img src="https://raw.githubusercontent.com/Keshav062004/keshav062004/output/github-contribution-grid-snake.svg" alt="Animated snake traversing Keshav Gupta's real GitHub contribution graph" width="100%" />
 </p>
 
 <p align="center">
