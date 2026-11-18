@@ -55,7 +55,7 @@
   <img src="assets/keshav-contributions.svg" width="100%" alt="Contribution graph heading: a genuine public GitHub contribution graph for Keshav Gupta." />
 </p>
 <p align="center">
-  <img src="https://github.com/Keshav062004/keshav062004/raw/refs/heads/output/github-contribution-calendar.svg?v=classic-snake-v2" alt="Keshav Gupta's real contribution activity for the past year, with a classic animated snake eating the contribution blocks, month labels above, and weekday labels at the left" width="100%" />
+  <img src="https://github.com/Keshav062004/keshav062004/raw/refs/heads/output/github-contribution-calendar.svg?v=classic-snake-v3" alt="Keshav Gupta's real contribution activity for the past year, with a classic animated snake eating the contribution blocks, month labels above, and weekday labels at the left" width="100%" />
 </p>
 
 <p align="center">
