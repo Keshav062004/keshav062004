@@ -31,6 +31,9 @@ jobs:
           outputs: |
             dist/github-contribution-calendar.svg?color_snake=%23C77B9B&color_dots=%23190B12,%23451126,%23701A3D,%23A84D75,%23E5B5C7
 
+      - name: Transfer generated file ownership to the runner
+        run: sudo chown -R "$(id -u):$(id -g)" dist
+
       - name: Add month and weekday labels
         run: python scripts/add_contribution_calendar_labels.py
 
