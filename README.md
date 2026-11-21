@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=1800&amp;pause=700&amp;color=C77B9B&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=44&amp;repeat=true&amp;lines=Full-Stack+Developer;AI+and+Cloud+Enthusiast;Front-End+Developer+%7C+React.js" width="100%" alt="Animated roles: Full-Stack Developer, AI and Cloud Enthusiast, Front-End Developer | React.js" />
+</div>
+
+<div align="center">
   <img src="assets/keshav-profile.svg" width="100%" alt="Computer Science Engineering graduate and software developer in Haryana, India. Builds full-stack applications and data-driven tools, with a focus on front-end craft, cloud, and AI." />
 </div>
 

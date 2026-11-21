@@ -12,10 +12,10 @@
   <text x="8" y="83" fill="#F8F0F3" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">A live record of showing up.</text>
   <text x="8" y="111" fill="#B6A3AC" font-family="Segoe UI, Arial, sans-serif" font-size="14">Real contribution data from GitHub. Cards update from public profile activity.</text>
   <path d="M840 72H1190" stroke="url(#kst-line)" stroke-width="2">
-    <animate attributeName="stroke-opacity" values="0.35;0.85;0.35" dur="5.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.35;0.85;0.35" dur="3.5s" repeatCount="indefinite"/>
   </path>
   <circle cx="855" cy="72" r="4" fill="#E5B5C7">
-    <animate attributeName="r" values="3;5.5;3" dur="3.8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.55;1;0.55" dur="3.8s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="3;8;3" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="2.5s" repeatCount="indefinite"/>
   </circle>
 </svg>
