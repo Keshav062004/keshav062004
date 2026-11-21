@@ -10,7 +10,13 @@
   <text x="8" y="36" fill="#C77B9B" font-family="Consolas, monospace" font-size="13" letter-spacing="2">02  /  SELECTED WORK</text>
   <text x="8" y="84" fill="#F8F0F3" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Products built to be useful.</text>
   <text x="8" y="114" fill="#B6A3AC" font-family="Segoe UI, Arial, sans-serif" font-size="15">Analytics for better exploration. A connected experience for care.</text>
-  <path d="M790 75H1180" stroke="url(#kw-line)" stroke-opacity="0.7" stroke-width="2"/>
-  <circle cx="800" cy="75" r="5" fill="#E5B5C7"/>
-  <circle cx="1180" cy="75" r="5" fill="#701A3D"/>
+  <path d="M790 75H1180" stroke="url(#kw-line)" stroke-opacity="0.7" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.4;0.8;0.4" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="800" cy="75" r="5" fill="#E5B5C7">
+    <animate attributeName="r" values="4;6;4" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1180" cy="75" r="5" fill="#701A3D">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="4.2s" repeatCount="indefinite"/>
+  </circle>
 </svg>

@@ -17,8 +17,12 @@
   </defs>
   <rect width="1200" height="176" rx="18" fill="url(#kfoot-bg)"/>
   <path d="M90 41H1110" stroke="url(#kfoot-path)" stroke-width="1.5"/>
-  <circle cx="91" cy="41" r="3.5" fill="#C77B9B"/>
-  <circle cx="1110" cy="41" r="3.5" fill="#C77B9B"/>
+  <circle cx="91" cy="41" r="3.5" fill="#C77B9B">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="3.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1110" cy="41" r="3.5" fill="#C77B9B">
+    <animate attributeName="opacity" values="1;0.45;1" dur="4.3s" repeatCount="indefinite"/>
+  </circle>
   <text x="600" y="95" text-anchor="middle" fill="#F8F0F3" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700">Thanks for stopping by.</text>
   <text x="600" y="127" text-anchor="middle" fill="#E5B5C7" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="1.2">BUILDING THOUGHTFUL SOFTWARE, ONE USEFUL ITERATION AT A TIME.</text>
   <path d="M560 148H640" stroke="#C77B9B" stroke-width="2" stroke-linecap="round" stroke-dasharray="80" stroke-dashoffset="80">
