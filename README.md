@@ -52,7 +52,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav062004&amp;theme=dark&amp;hide_border=true&amp;background=10070C&amp;ring=701A3D&amp;fire=C77B9B&amp;currStreakLabel=E5B5C7&amp;sideLabels=E5B5C7&amp;currStreakNum=F8F0F3&amp;sideNums=F8F0F3&amp;dates=E5B5C7" alt="Live GitHub contribution streak for keshav062004" width="100%" loading="lazy" />
 </div>
 <div align="center">
-  <img src="https://github.com/Keshav062004/keshav062004/raw/refs/heads/output/keshav-languages.svg?v=language-loop-v1" alt="Animated top language breakdown from public repositories, refreshed daily." width="100%" loading="lazy" />
+  <img src="https://github.com/Keshav062004/keshav062004/raw/refs/heads/output/keshav-languages.svg?v=language-loop-v2" alt="Animated top language breakdown from public repositories, refreshed daily." width="100%" loading="lazy" />
 </div>
 
 <div align="center">
