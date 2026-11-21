@@ -1,4 +1,4 @@
-name: Generate contribution calendar
+name: Generate profile graphics
 
 on:
   schedule:
@@ -10,6 +10,7 @@ on:
     paths:
       - README.md
       - scripts/add_contribution_calendar_labels.py
+      - scripts/generate_language_card.py
       - .github/workflows/contribution-calendar.yml
 
 permissions:
@@ -33,6 +34,11 @@ jobs:
 
       - name: Transfer generated file ownership to the runner
         run: sudo chown -R "$(id -u):$(id -g)" dist
+
+      - name: Generate the animated repository-language card
+        run: python scripts/generate_language_card.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Add month and weekday labels
         run: python scripts/add_contribution_calendar_labels.py
