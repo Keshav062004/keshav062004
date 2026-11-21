@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/keshav-skills.svg" width="100%" alt="Technical toolkit: Java, Python, JavaScript, TypeScript, C++, SQL; React, Vite, Tailwind CSS, HTML5, CSS3; FastAPI, Flask, Node.js, Express.js, REST APIs; Pandas, NumPy, scikit-learn, Power BI, Matplotlib, Jupyter; SQLite, PostgreSQL, MySQL, MongoDB; Docker, Git, GitHub, GitHub Actions, Vercel, Render, AWS, Linux, CI/CD, pytest; data structures and algorithms, OOP, system design, Agile, unit testing; Google Gemini, Firebase Auth, Postman, Jira; UI design, UX design, interface design, responsive design." />
+  <img src="assets/keshav-skills.svg" width="100%" alt="Technical toolkit with icons and names for HTML5, CSS3, JavaScript, TypeScript, React, Node.js, Tailwind CSS, Git, GitHub, MongoDB, Express.js, and PostgreSQL; additional tools, software engineering practices, and Design + UI/UX skills." />
 </div>
 
 <div align="center">
