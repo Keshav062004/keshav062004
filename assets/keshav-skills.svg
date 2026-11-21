@@ -34,8 +34,8 @@
     <g transform="translate(38 102)">
       <rect width="550" height="76" rx="11" fill="#190B12" stroke="#451126"/>
       <path d="M0 11Q0 0 11 0H14V76H11Q0 76 0 65Z" fill="url(#ks-accent)"/>
-      <text x="24" y="23" fill="#C77B9B" font-size="10" font-weight="700" letter-spacing="1.2">PROGRAMMING LANGUAGES</text>
-      <g fill="#F8F0F3" font-size="12">
+      <text x="24" y="23" fill="#C77B9B" font-size="11" font-weight="700" letter-spacing="1.2">PROGRAMMING LANGUAGES</text>
+      <g fill="#F8F0F3" font-size="13">
         <text x="24" y="52">Java</text><text x="75" y="52">Python</text><text x="145" y="52">JavaScript</text>
         <text x="241" y="52">TypeScript</text><text x="342" y="52">C++</text><text x="392" y="52">SQL</text>
       </g>
@@ -48,8 +48,8 @@
     <g transform="translate(612 102)">
       <rect width="550" height="76" rx="11" fill="#190B12" stroke="#451126"/>
       <path d="M0 11Q0 0 11 0H14V76H11Q0 76 0 65Z" fill="url(#ks-accent)"/>
-      <text x="24" y="23" fill="#C77B9B" font-size="10" font-weight="700" letter-spacing="1.2">FRONTEND</text>
-      <g fill="#F8F0F3" font-size="12">
+      <text x="24" y="23" fill="#C77B9B" font-size="11" font-weight="700" letter-spacing="1.2">FRONTEND</text>
+      <g fill="#F8F0F3" font-size="13">
         <text x="24" y="52">React</text><text x="91" y="52">Vite</text><text x="148" y="52">Tailwind CSS</text>
         <text x="271" y="52">HTML5</text><text x="346" y="52">CSS3</text>
       </g>
@@ -62,8 +62,8 @@
     <g transform="translate(38 186)">
       <rect width="550" height="76" rx="11" fill="#190B12" stroke="#451126"/>
       <path d="M0 11Q0 0 11 0H14V76H11Q0 76 0 65Z" fill="url(#ks-accent)"/>
-      <text x="24" y="23" fill="#C77B9B" font-size="10" font-weight="700" letter-spacing="1.2">BACKEND + APIS</text>
-      <g fill="#F8F0F3" font-size="12">
+      <text x="24" y="23" fill="#C77B9B" font-size="11" font-weight="700" letter-spacing="1.2">BACKEND + APIS</text>
+      <g fill="#F8F0F3" font-size="13">
         <text x="24" y="52">FastAPI</text><text x="102" y="52">Flask</text><text x="164" y="52">Node.js</text>
         <text x="244" y="52">Express.js</text><text x="342" y="52">REST APIs</text>
       </g>
@@ -76,8 +76,8 @@
     <g transform="translate(612 186)">
       <rect width="550" height="76" rx="11" fill="#190B12" stroke="#451126"/>
       <path d="M0 11Q0 0 11 0H14V76H11Q0 76 0 65Z" fill="url(#ks-accent)"/>
-      <text x="24" y="23" fill="#C77B9B" font-size="10" font-weight="700" letter-spacing="1.2">DATA ANALYSIS</text>
-      <g fill="#F8F0F3" font-size="11.5">
+      <text x="24" y="23" fill="#C77B9B" font-size="11" font-weight="700" letter-spacing="1.2">DATA ANALYSIS</text>
+      <g fill="#F8F0F3" font-size="12">
         <text x="24" y="52">Pandas</text><text x="91" y="52">NumPy</text><text x="158" y="52">scikit-learn</text>
         <text x="264" y="52">Power BI</text><text x="352" y="52">Matplotlib</text><text x="456" y="52">Jupyter</text>
       </g>
@@ -90,8 +90,8 @@
     <g transform="translate(38 270)">
       <rect width="550" height="76" rx="11" fill="#190B12" stroke="#451126"/>
       <path d="M0 11Q0 0 11 0H14V76H11Q0 76 0 65Z" fill="url(#ks-accent)"/>
-      <text x="24" y="23" fill="#C77B9B" font-size="10" font-weight="700" letter-spacing="1.2">DATABASES</text>
-      <g fill="#F8F0F3" font-size="12">
+      <text x="24" y="23" fill="#C77B9B" font-size="11" font-weight="700" letter-spacing="1.2">DATABASES</text>
+      <g fill="#F8F0F3" font-size="13">
         <text x="24" y="52">SQLite</text><text x="103" y="52">PostgreSQL</text><text x="216" y="52">MySQL</text><text x="302" y="52">MongoDB</text>
       </g>
       <g fill="none" stroke="#C77B9B" stroke-opacity="0.38">
@@ -102,8 +102,8 @@
     <g transform="translate(612 270)">
       <rect width="550" height="76" rx="11" fill="#190B12" stroke="#451126"/>
       <path d="M0 11Q0 0 11 0H14V76H11Q0 76 0 65Z" fill="url(#ks-accent)"/>
-      <text x="24" y="22" fill="#C77B9B" font-size="10" font-weight="700" letter-spacing="1.2">CLOUD + DEVOPS</text>
-      <g fill="#F8F0F3" font-size="11.5">
+      <text x="24" y="22" fill="#C77B9B" font-size="11" font-weight="700" letter-spacing="1.2">CLOUD + DEVOPS</text>
+      <g fill="#F8F0F3" font-size="12">
         <text x="24" y="43">Docker</text><text x="96" y="43">Git</text><text x="143" y="43">GitHub</text>
         <text x="217" y="43">GitHub Actions</text><text x="351" y="43">Vercel</text><text x="424" y="43">Render</text>
         <text x="24" y="65">AWS</text><text x="76" y="65">Linux</text><text x="143" y="65">CI/CD</text><text x="211" y="65">pytest</text>
@@ -119,8 +119,8 @@
     <g transform="translate(38 354)">
       <rect width="550" height="76" rx="11" fill="#190B12" stroke="#451126"/>
       <path d="M0 11Q0 0 11 0H14V76H11Q0 76 0 65Z" fill="url(#ks-accent)"/>
-      <text x="24" y="22" fill="#C77B9B" font-size="10" font-weight="700" letter-spacing="1.2">SOFTWARE ENGINEERING</text>
-      <g fill="#F8F0F3" font-size="11.5">
+      <text x="24" y="22" fill="#C77B9B" font-size="11" font-weight="700" letter-spacing="1.2">SOFTWARE ENGINEERING</text>
+      <g fill="#F8F0F3" font-size="12">
         <text x="24" y="45">Data Structures &amp; Algorithms</text><text x="250" y="45">OOP</text><text x="308" y="45">System Design</text>
         <text x="24" y="66">Agile</text><text x="85" y="66">Unit Testing</text>
       </g>
@@ -133,8 +133,8 @@
     <g transform="translate(612 354)">
       <rect width="550" height="76" rx="11" fill="#190B12" stroke="#451126"/>
       <path d="M0 11Q0 0 11 0H14V76H11Q0 76 0 65Z" fill="url(#ks-accent)"/>
-      <text x="24" y="23" fill="#C77B9B" font-size="10" font-weight="700" letter-spacing="1.2">AI + TOOLS</text>
-      <g fill="#F8F0F3" font-size="11.5">
+      <text x="24" y="23" fill="#C77B9B" font-size="11" font-weight="700" letter-spacing="1.2">AI + TOOLS</text>
+      <g fill="#F8F0F3" font-size="12">
         <text x="24" y="52">Google Gemini</text><text x="153" y="52">Firebase Auth</text>
         <text x="281" y="52">Postman</text><text x="370" y="52">Jira</text>
       </g>
@@ -146,8 +146,8 @@
     <g transform="translate(38 438)">
       <rect width="1124" height="72" rx="11" fill="#190B12" stroke="#701A3D" stroke-opacity="0.8"/>
       <path d="M0 11Q0 0 11 0H14V72H11Q0 72 0 61Z" fill="url(#ks-accent)"/>
-      <text x="24" y="23" fill="#E5B5C7" font-size="10" font-weight="700" letter-spacing="1.2">DESIGN + UI/UX</text>
-      <g fill="#F8F0F3" font-size="12">
+      <text x="24" y="23" fill="#E5B5C7" font-size="11" font-weight="700" letter-spacing="1.2">DESIGN + UI/UX</text>
+      <g fill="#F8F0F3" font-size="13">
         <text x="24" y="51">UI Design</text><text x="127" y="51">UX Design</text><text x="235" y="51">Interface Design</text>
         <text x="397" y="51">Responsive Design</text>
       </g>
