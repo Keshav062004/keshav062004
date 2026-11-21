@@ -13,20 +13,20 @@
 <a href="https://github.com/Keshav062004/FundScope-India">
   <img src="assets/keshav-fundscope.svg" width="100%" alt="FundScope India — mutual fund analytics, made explorable. Explore Indian fund history, compare performance and risk, and ask questions about the available dataset with Gemini AI insights. Sixteen schemes and 42,372 NAV records. Python, Pandas, React, TypeScript, FastAPI, and SQLite." />
 </a>
-<div align="center">
-  <a href="https://fund-scope-india.vercel.app/">↗ Live app</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Keshav062004/FundScope-India">Source repository</a>
-</div>
+<p align="center">
+  <a href="https://fund-scope-india.vercel.app/"><img src="https://img.shields.io/badge/FundScope-Live%20App?style=for-the-badge&amp;labelColor=190B12&amp;color=701A3D&amp;logo=vercel&amp;logoColor=F8F0F3" alt="FundScope India — Live App" /></a>
+  &nbsp;
+  <a href="https://github.com/Keshav062004/FundScope-India"><img src="https://img.shields.io/badge/FundScope-Source%20Repository?style=for-the-badge&amp;labelColor=190B12&amp;color=701A3D&amp;logo=github&amp;logoColor=F8F0F3" alt="FundScope India — Source Repository" /></a>
+</p>
 
 <a href="https://github.com/Keshav062004/MediConnect">
   <img src="assets/keshav-mediconnect.svg" width="100%" alt="MediConnect — a healthcare communication platform with role-based JWT access, real-time messaging and video calls, appointment booking, and Cloudinary uploads. React, Redux Toolkit, Node.js, Express.js, MongoDB, JWT, and Cloudinary." />
 </a>
-<div align="center">
-  <a href="https://medi-connect-k.netlify.app/">↗ Live app</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Keshav062004/MediConnect">Source repository</a>
-</div>
+<p align="center">
+  <a href="https://medi-connect-k.netlify.app/"><img src="https://img.shields.io/badge/MediConnect-Live%20App?style=for-the-badge&amp;labelColor=190B12&amp;color=701A3D&amp;logo=netlify&amp;logoColor=F8F0F3" alt="MediConnect — Live App" /></a>
+  &nbsp;
+  <a href="https://github.com/Keshav062004/MediConnect"><img src="https://img.shields.io/badge/MediConnect-Source%20Repository?style=for-the-badge&amp;labelColor=190B12&amp;color=701A3D&amp;logo=github&amp;logoColor=F8F0F3" alt="MediConnect — Source Repository" /></a>
+</p>
 
 <div align="center">
   <img src="assets/keshav-journey.svg" width="100%" alt="Experience and education: Front End Intern at CertifyX, July 2026 to present; Cloud Consultant Intern at Mist Avinya Technologies LLP, December 2025 to June 2026; B.Tech Computer Science Engineering, Chitkara University, Punjab, August 2022 to August 2026, CGPA 7.81 out of 10." />
