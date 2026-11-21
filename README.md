@@ -33,7 +33,7 @@
 </p>
 
 <div align="center">
-  <img src="assets/keshav-journey.svg" width="100%" loading="lazy" alt="Experience and education: Front End Intern at CertifyX, July 2026 to present; Cloud Consultant Intern at Mist Avinya Technologies LLP, December 2025 to June 2026; B.Tech Computer Science Engineering, Chitkara University, Punjab, August 2022 to August 2026, CGPA 7.81 out of 10." />
+  <img src="assets/keshav-journey.svg?v=experience-heading-1" width="100%" loading="lazy" alt="Experience and education: Front End Intern at CertifyX, July 2026 to present; Cloud Consultant Intern at Mist Avinya Technologies LLP, December 2025 to June 2026; B.Tech Computer Science Engineering, Chitkara University, Punjab, August 2022 to August 2026, CGPA 7.81 out of 10." />
 </div>
 
 <div align="center">
