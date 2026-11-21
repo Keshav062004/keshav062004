@@ -18,17 +18,20 @@
     <rect width="310" height="78" rx="11" fill="#10070C" stroke="#451126"/>
     <text x="14" y="17" fill="#B6A3AC" font-family="Consolas, monospace" font-size="8" letter-spacing="1">ACTIVITY / YEAR VIEW</text>
     <path d="M14 23H296" stroke="url(#kcon-line)" stroke-opacity="0.55"/>
-    <rect x="15" y="31" width="84" height="36" fill="url(#kcon-grid)"/>
-    <rect x="27" y="31" width="8" height="8" rx="2" fill="#701A3D"/>
-    <rect x="63" y="31" width="8" height="8" rx="2" fill="#C77B9B"/>
-    <rect x="39" y="43" width="8" height="8" rx="2" fill="#701A3D"/>
-    <rect x="75" y="43" width="8" height="8" rx="2" fill="#A84D75"/>
-    <rect x="51" y="55" width="8" height="8" rx="2" fill="#C77B9B"/>
-    <rect x="87" y="55" width="8" height="8" rx="2" fill="#701A3D"/>
-    <rect x="15" y="31" width="8" height="8" rx="2" fill="none" stroke="#F8F0F3" stroke-width="1.5">
+    <rect x="15" y="29" width="84" height="48" fill="url(#kcon-grid)"/>
+    <rect x="27" y="29" width="8" height="8" rx="2" fill="#701A3D"/>
+    <rect x="63" y="29" width="8" height="8" rx="2" fill="#C77B9B"/>
+    <rect x="39" y="41" width="8" height="8" rx="2" fill="#701A3D"/>
+    <rect x="75" y="41" width="8" height="8" rx="2" fill="#A84D75"/>
+    <rect x="51" y="53" width="8" height="8" rx="2" fill="#C77B9B"/>
+    <rect x="87" y="53" width="8" height="8" rx="2" fill="#701A3D"/>
+    <rect x="15" y="65" width="8" height="8" rx="2" fill="#A84D75"/>
+    <rect x="63" y="65" width="8" height="8" rx="2" fill="#701A3D"/>
+    <rect x="15" y="29" width="8" height="8" rx="2" fill="none" stroke="#F8F0F3" stroke-width="1.5">
       <animate attributeName="x" values="15;27;39;51;63;75;87;15" dur="4.8s" repeatCount="indefinite"/>
     </rect>
     <path d="M112 68V34M112 68H294" fill="none" stroke="#451126" stroke-width="1"/>
+    <path d="M120 63H143V55H169V60H197V43H224V50H253V34H286" fill="none" stroke="#451126" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M120 63H143V55H169V60H197V43H224V50H253V34H286" fill="none" stroke="url(#kcon-line)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="210" stroke-dashoffset="210">
       <animate attributeName="stroke-dashoffset" from="210" to="0" dur="3.2s" repeatCount="indefinite"/>
     </path>
