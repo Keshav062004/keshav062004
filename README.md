@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/keshav-skills.svg" width="100%" alt="Technical toolkit with icons and names for HTML5, CSS3, JavaScript, TypeScript, React, Node.js, Tailwind CSS, Git, GitHub, MongoDB, Express.js, and PostgreSQL; additional tools, software engineering practices, and Design + UI/UX skills." />
+  <img src="assets/keshav-skills.svg" width="100%" alt="Icon-only toolkit with labels for HTML5, CSS3, JavaScript, TypeScript, React, Node.js, Tailwind CSS, Git, GitHub, MongoDB, Express.js, PostgreSQL, Java, Python, C++, SQL, Next.js, Redux Toolkit, Vite, FastAPI, Flask, REST APIs, Pandas, NumPy, scikit-learn, Power BI, Matplotlib, Jupyter, SQLite, MySQL, Docker, GitHub Actions, Vercel, Render, AWS, Linux, CI/CD, pytest, Google Gemini, Firebase Auth, Postman, Jira, data structures and algorithms, OOP, system design, Agile, unit testing, UI design, UX design, interface design, and responsive design." />
 </div>
 
 <div align="center">
