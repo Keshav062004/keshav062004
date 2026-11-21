@@ -66,7 +66,7 @@
   <img src="assets/keshav-connect.svg" width="100%" alt="Connect with Keshav Gupta through LinkedIn, email, portfolio, or GitHub." />
 </div>
 <p align="center">
-  <a href="https://www.linkedin.com/in/keshav07/"><img src="https://img.shields.io/badge/LinkedIn-701A3D?style=for-the-badge&amp;logo=linkedin&amp;logoColor=F8F0F3" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/keshav07/"><img src="assets/keshav-linkedin-badge.svg" alt="LinkedIn" /></a>
   <a href="mailto:keshavgupta072004@gmail.com"><img src="https://img.shields.io/badge/Email-701A3D?style=for-the-badge&amp;logo=gmail&amp;logoColor=F8F0F3" alt="Email" /></a>
   <a href="https://portfoliioo-xi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-701A3D?style=for-the-badge&amp;logo=vercel&amp;logoColor=F8F0F3" alt="Portfolio" /></a>
   <a href="https://github.com/Keshav062004"><img src="https://img.shields.io/badge/GitHub-701A3D?style=for-the-badge&amp;logo=github&amp;logoColor=F8F0F3" alt="GitHub" /></a>
